@@ -2,10 +2,8 @@
 configs for my arch setup
 
 -----------
-
 Hello.
-
-----------
+-----------
 
 This repo contains my config files for the following packs:
 
@@ -17,3 +15,9 @@ This repo contains my config files for the following packs:
 - the terminal theme I use on .Xdefaults
 
 it also contains files for LARBS to use 
+
+-----------
+Screenshots
+-----------
+
+Soon. ... I hope
