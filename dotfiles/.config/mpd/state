@@ -1,0 +1,53 @@
+sw_volume: 94
+audio_device_state:1:mpd alsamixer-output
+audio_device_state:1:toggle_visualizer
+state: stop
+current: 31
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Beherit/(1991) The Oath of Black Blood/02. Beherit - Metal of Death.mp3
+1:Helstar/(1989) Nosferatu/01. Helstar - Rhapsody in Black.mp3
+2:Helstar/(1989) Nosferatu/02. Helstar - Baptized in Blood.mp3
+3:Helstar/(1989) Nosferatu/03. Helstar - To Sleep, Per Chance to Scream.mp3
+4:Helstar/(1989) Nosferatu/04. Helstar - Harker's Tale (Mass of Death).mp3
+5:Helstar/(1989) Nosferatu/05. Helstar - Perseverance and Desperation.mp3
+6:Helstar/(1989) Nosferatu/06. Helstar - The Curse Has Passed Away.mp3
+7:Helstar/(1989) Nosferatu/07. Helstar - Benediction.mp3
+8:Helstar/(1989) Nosferatu/08. Helstar - Harsh Reality.mp3
+9:Helstar/(1989) Nosferatu/09. Helstar - Swirling Madness.mp3
+10:Helstar/(1989) Nosferatu/10. Helstar - Von am Lebem Desto Strum.mp3
+11:Helstar/(1989) Nosferatu/11. Helstar - Aieliaria and Everonn.mp3
+12:Revenant/(1991) Prophecies of a Dying World/01. Revenant - Prophecy of a Dying World.mp3
+13:Revenant/(1991) Prophecies of a Dying World/02. Revenant - Spawn.mp3
+14:Revenant/(1991) Prophecies of a Dying World/03. Revenant - Ancestral Shadows.mp3
+15:Revenant/(1991) Prophecies of a Dying World/04. Revenant - The Unearthly (A Quest).mp3
+16:Revenant/(1991) Prophecies of a Dying World/05. Revenant - In the Dark of the Psychic Unknown.mp3
+17:Revenant/(1991) Prophecies of a Dying World/06. Revenant - Asphyxiated Times.mp3
+18:Revenant/(1991) Prophecies of a Dying World/07. Revenant - Distant Eyes.mp3
+19:Revenant/(1991) Prophecies of a Dying World/08. Revenant - Valedictions.mp3
+20:Revenant/(1991) Prophecies of a Dying World/09. Revenant - Degeneration.mp3
+21:Sarcófago/(1987) I.N.R.I/04. Sarcófago - I.N.R.I..mp3
+22:Varathron/(1993) His Majesty at the Swamp/01. Varathron - His Majesty at the Swamp.mp3
+23:Varathron/(1993) His Majesty at the Swamp/02. Varathron - Son of the Moon (Act II).mp3
+24:Varathron/(1993) His Majesty at the Swamp/03. Varathron - Unholy Funeral.mp3
+25:Varathron/(1993) His Majesty at the Swamp/04. Varathron - Lustful Father.mp3
+26:Varathron/(1993) His Majesty at the Swamp/05. Varathron - Nightly Kingdoms.mp3
+27:Varathron/(1993) His Majesty at the Swamp/06. Varathron - Flowers of My Youth.mp3
+28:Varathron/(1993) His Majesty at the Swamp/07. Varathron - The River of My Souls.mp3
+29:Varathron/(1993) His Majesty at the Swamp/08. Varathron - The Tressrising of Nyarlathotep (Act I).mp3
+30:Varathron/(1993) His Majesty at the Swamp/09. Varathron - The Grim Palace.mp3
+31:Throne of Ahaz/(1995) Nifelheim/01. Throne of Ahaz - Northern Thrones.mp3
+32:Throne of Ahaz/(1995) Nifelheim/02. Throne of Ahaz - An Arctic Star of Blackness.mp3
+33:Throne of Ahaz/(1995) Nifelheim/03. Throne of Ahaz - Where Ancient Lords Gather.mp3
+34:Throne of Ahaz/(1995) Nifelheim/04. Throne of Ahaz - The Dawn of War.mp3
+35:Throne of Ahaz/(1995) Nifelheim/05. Throne of Ahaz - Nifelheim.mp3
+36:Throne of Ahaz/(1995) Nifelheim/06. Throne of Ahaz - The Calling Blaze.mp3
+37:Throne of Ahaz/(1995) Nifelheim/07. Throne of Ahaz - A Winter Chant.mp3
+38:Throne of Ahaz/(1995) Nifelheim/08. Throne of Ahaz - The Kings That Were....mp3
+playlist_end

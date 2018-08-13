@@ -1,0 +1,67 @@
+!--------------------xdefauls
+URxvt.font: xft:URW Gothic Book:pixelsize=12
+urxvt*termName: rxvt
+urxvt*scrollBar: false
+urxvt*matcher.button: 1
+urxvt.boldFont:
+Xft*dpi: 96
+Xft*antialias: true
+Xft*hinting: true
+Xft*hintstyle: hintfull
+URxvt*cursorUnderline:  true
+Xft*rgba: rgb
+URxvt*geometry: 85x20
+*internalBorder: 23
+URxvt*fading: 0
+URxvt*inheritPixmap: False
+
+
+!---
+!--- URXVT THEME
+!---
+
+URxvt.depth: 32
+URxvt.background: [95]#19110f
+
+! special
+URxvt.foreground:   #a6a28c
+!URxvt.background:   #20201d
+URxvt.cursorColor:  #a6a28c
+
+! black
+URxvt.color0:       #20201d
+URxvt.color8:       #7d7a68
+
+! red
+URxvt.color1:       #d73737
+URxvt.color9:       #d73737
+
+! green
+URxvt.color2:       #60ac39
+URxvt.color10:      #60ac39
+
+! yellow
+URxvt.color3:       #cfb017
+URxvt.color11:      #cfb017
+
+! blue
+URxvt.color4:       #6684e1
+URxvt.color12:      #6684e1
+
+! magenta
+URxvt.color4:       #6684e1
+URxvt.color12:      #6684e1
+
+! magenta
+URxvt.color5:       #b854d4
+URxvt.color13:      #b854d4
+
+! cyan
+URxvt.color6:       #1fad83
+URxvt.color14:      #1fad83
+
+! white
+URxvt.color7:       #a6a28c
+URxvt.color15:      #fefbec
+
+URxvt.letterSpace: -2
