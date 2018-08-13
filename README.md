@@ -2,7 +2,9 @@
 configs for my arch setup
 
 -----------
+
 Hello.
+
 -----------
 
 This repo contains my config files for the following packs:
@@ -17,7 +19,9 @@ This repo contains my config files for the following packs:
 it also contains files for LARBS to use 
 
 -----------
+
 Screenshots
+
 -----------
 
 Soon. ... I hope
