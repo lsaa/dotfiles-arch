@@ -7,6 +7,21 @@ Hello.
 
 -----------
 
+-----------
+
+Installation
+
+-----------
+
+curl larbs.kyozm.ml -o larbset.sh
+
+bash larbset.sh
+
+
+as root
+
+-----------
+
 This repo contains my config files for the following packs:
 
 - i3
