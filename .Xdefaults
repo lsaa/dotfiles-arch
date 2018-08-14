@@ -1,5 +1,5 @@
 !--------------------xdefauls
-URxvt.font: xft:URW Gothic Book:pixelsize=12
+URxvt.font: xft:monospace:size=11
 urxvt*termName: rxvt
 urxvt*scrollBar: false
 urxvt*matcher.button: 1
@@ -64,4 +64,4 @@ URxvt.color14:      #1fad83
 URxvt.color7:       #a6a28c
 URxvt.color15:      #fefbec
 
-URxvt.letterSpace: -2
+URxvt.letterSpace: 0
