@@ -3,12 +3,6 @@ configs for my arch setup
 
 -----------
 
-Hello.
-
------------
-
------------
-
 Installation
 
 -----------
