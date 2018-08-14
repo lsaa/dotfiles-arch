@@ -209,7 +209,7 @@ assign [class = "gimp"] $ws9
 
 exec --no-startup-id firefox
 
-exec --no-startup-id feh --bg-scale /home/lsaa/wallpapers/01.jpg
+exec --no-startup-id feh --bg-scale /home/lsaa/wallpapers/01.png
 exec --no-startup-id mpd
 exec --no-startup-id mpdas
 
