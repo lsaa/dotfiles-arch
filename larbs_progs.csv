@@ -69,4 +69,4 @@ A,task-spooler,queues commands or files for download
 ,cmake,
 ,curlftpfs,
 ,i3status,
-
+,sddm,
