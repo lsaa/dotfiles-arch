@@ -1,5 +1,5 @@
 !--------------------xdefauls
-URxvt.font: xft:monospace:size=11
+URxvt.font: xft:Hack:size=10
 urxvt*termName: rxvt
 urxvt*scrollBar: false
 urxvt*matcher.button: 1
@@ -29,8 +29,8 @@ URxvt.foreground:   #a6a28c
 URxvt.cursorColor:  #a6a28c
 
 ! black
-URxvt.color0:       #20201d
-URxvt.color8:       #7d7a68
+URxvt.color8:       #20201d
+URxvt.color0:       #34383a
 
 ! red
 URxvt.color1:       #d73737
@@ -65,3 +65,10 @@ URxvt.color7:       #a6a28c
 URxvt.color15:      #fefbec
 
 URxvt.letterSpace: 0
+
+URxvt.keysym.C-Up:     font-size:increase
+URxvt.keysym.C-Down:   font-size:decrease
+URxvt.keysym.C-S-Up:   font-size:incglobal
+URxvt.keysym.C-S-Down: font-size:decglobal
+URxvt.keysym.C-equal:  font-size:reset
+URxvt.keysym.C-slash:  font-size:show
